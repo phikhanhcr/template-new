@@ -19,30 +19,13 @@
 @endsection
 @section('main')
     <div class="site-wrapper overflow-hidden">
-        <div class="breadcrumb-section">
-            <div class="breadcrumb-section__bg-shape">
-                <img src="/image/breadcrumb/breadcrumb-shape.png" alt="breadcrumb-shape">
-            </div>
-            <div class="breadcrumb-section__shape-1 floating-Y-animation-reverse">
-                <img src="/image/breadcrumb/shape-1.svg" class="make-it-inline w-100" alt="breadcrumb-shape">
-            </div>
-            <div class="breadcrumb-section__shape-2 circle-animation">
-                <img src="/image/breadcrumb/shape-2.svg" class="make-it-inline w-100" alt="breadcrumb-shape">
-            </div>
-            <div class="breadcrumb-section__shape-3  floating-Y-animation-02">
-                <img src="/image/breadcrumb/shape-3.svg" class="make-it-inline w-100" alt="breadcrumb-shape">
-            </div>
+        </div>
+        <div class="inner-hero-area bg-gradient">
             <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-8 col-lg-8 col-md-10 col-sm-11 col-xs-11">
-                        <div class="breadcrumb-section__content hero-content text-center">
-                            <h1 class="heading-light title mb-20 text-light">Terms of Service</h1>
-                            <nav aria-label="breadcrumb">
-                                <ol class="breadcrumb justify-content-center">
-                                    <li class="breadcrumb-item text-light">Home</li>
-                                    <li class="breadcrumb-item text-light" aria-current="page">Terms of Service</li>
-                                </ol>
-                            </nav>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="inner-hero-text">
+                            <h1 class="title" style="line-height: 80px">Terms of Service</h1>
                         </div>
                     </div>
                 </div>
@@ -54,450 +37,376 @@
                     <div class="col-xl-8">
                         <div class="termscontent-section__content">
                             <div class="termscontent-section__content--texts text-dark">
-                                <p>1. User's Acknowledgment and Acceptance of Terms
-                                    <br /> <br />
-                                    247workout.co ("Us" or "We") provides the 247workout.co site and various related
-                                    services (collectively, the "site") to you, the user, subject to your compliance with
-                                    all the terms, conditions, and notices contained or referenced herein (the "Terms of
-                                    Use"), as well as any other written agreement between us and you. In addition, when
-                                    using particular services or materials on this site, users shall be subject to any
-                                    posted rules applicable to such services or materials that may contain terms and
-                                    conditions in addition to those in these Terms of Use. All such guidelines or rules are
-                                    hereby incorporated by reference into these Terms of Use.
-                                    <br /> <br />
-                                    BY USING THIS SITE, YOU AGREE TO BE BOUND BY THESE TERMS OF USE. IF YOU DO NOT WISH TO
-                                    BE BOUND BY THE THESE TERMS OF USE, PLEASE EXIT THE SITE NOW. YOUR REMEDY FOR
-                                    DISSATISFACTION WITH THIS SITE, OR ANY PRODUCTS, SERVICES, CONTENT, OR OTHER INFORMATION
-                                    AVAILABLE ON OR THROUGH THIS SITE, IS TO STOP USING THE SITE AND/OR THOSE PARTICULAR
-                                    PRODUCTS OR SERVICES. YOUR AGREEMENT WITH US REGARDING COMPLIANCE WITH THESE TERMS OF
-                                    USE BECOMES EFFECTIVE IMMEDIATELY UPON COMMENCEMENT OF YOUR USE OF THIS SITE.
-                                    <br /> <br />
-                                    We expressly reserve the right to change these Terms of Use from time to time without
-                                    notice to you. You acknowledge and agree that it is your responsibility to review this
-                                    site and these Terms of Use from time to time and to familiarize yourself with any
-                                    modifications. Your continued use of this site after such modifications will constitute
-                                    acknowledgement of the modified Terms of Use and agreement to abide and be bound by the
-                                    modified Terms of Use.
-                                    <br /> <br />
-                                    As used in these Terms of Use, references to our "Affiliates" include our owners,
-                                    subsidiaries, affiliated companies, officers, directors, suppliers, partners, sponsors,
-                                    and advertisers, and includes (without limitation) all parties involved in creating,
-                                    producing, and/or delivering this site and/or its contents.
-                                    <br /> <br />
-                                    2. Description of Services
-                                    <br /> <br />
-                                    We make various services available on this site including, but not limited to, Online
-                                    gym workout log, and other like services. You are responsible for providing, at your own
-                                    expense, all equipment necessary to use the services, including a computer, modem, and
-                                    Internet access (including payment of all fees associated with such access).
-                                    <br /> <br />
-                                    We reserve the sole right to either modify or discontinue the site, including any of the
-                                    site’s features, at any time with or without notice to you. We will not be liable to you
-                                    or any third party should we exercise such right. Any new features that augment or
-                                    enhance the then-current services on this site shall also be subject to these Terms of
-                                    Use.
-                                    <br /> <br />
-                                    3. Registration Data and Privacy
-                                    <br /> <br />
-                                    In order to access some of the services on this site, you will be required to use an
-                                    account and password that can be obtained by completing our online registration form,
-                                    which requests certain information and data ("Registration Data"), and maintaining and
-                                    updating your Registration Data as required. By registering, you agree that all
-                                    information provided in the Registration Data is true and accurate and that you will
-                                    maintain and update this information as required in order to keep it current, complete,
-                                    and accurate.
-                                    <br /> <br />
-                                    You also grant us the right to disclose to third parties certain Registration Data about
-                                    you. The information we obtain through your use of this site, including your
-                                    Registration Data, is subject to our Privacy Policy, which is specifically incorporated
-                                    by reference into these Terms of Use.
-                                    <br /> <br />
-                                    4. Conduct on Site
-                                    <br /> <br />
-                                    Your use of the site is subject to all applicable laws and regulations, and you are
-                                    solely responsible for the substance of your communications through the site. By posting
-                                    information in or otherwise using any communications service, chat room, message board,
-                                    newsgroup, software library, or other interactive service that may be available to you
-                                    on or through this site, you agree that you will not upload, share, post, or otherwise
-                                    distribute or facilitate distribution of any content -- including text, communications,
-                                    software, images, sounds, data, or other information -- that:
-                                    <br /> <br />
-                                    a. is unlawful, threatening, abusive, harassing, defamatory, libelous, deceptive,
-                                    fraudulent, invasive of another’s privacy, tortious, contains explicit or graphic
-                                    descriptions or accounts of sexual acts (including but not limited to sexual language of
-                                    a violent or threatening nature directed at another individual or group of individuals),
-                                    or otherwise violates our rules or policies;
-                                    <br /> <br />
-                                    b. victimizes, harasses, degrades, or intimidates an individual or group of individuals
-                                    on the basis of religion, gender, sexual orientation, race, ethnicity, age, or
-                                    disability;
-                                    <br /> <br />
-                                    c. infringes on any patent, trademark, trade secret, copyright, right of publicity, or
-                                    other proprietary right of any party;
-                                    <br /> <br />
-                                    d. constitutes unauthorized or unsolicited advertising, junk or bulk email (also known
-                                    as "spamming"), chain letters, any other form of unauthorized solicitation, or any form
-                                    of lottery or gambling;
-                                    <br /> <br />
-                                    e. contains software viruses or any other computer code, files, or programs that are
-                                    designed or intended to disrupt, damage, or limit the functioning of any software,
-                                    hardware, or telecommunications equipment or to damage or obtain unauthorized access to
-                                    any data or other information of any third party; or
-                                    <br /> <br />
-                                    f. impersonates any person or entity, including any of our employees or representatives.
-                                    <br /> <br />
-                                    We neither endorse nor assume any liability for the contents of any material uploaded or
-                                    submitted by third party users of the site. We generally do not pre-screen, monitor, or
-                                    edit the content posted by users of communications services, chat rooms, message boards,
-                                    newsgroups, software libraries, or other interactive services that may be available on
-                                    or through this site. However, we and our agents have the right at their sole discretion
-                                    to remove any content that, in our judgment, does not comply with these Terms of Use and
-                                    any other rules of user conduct for our site, or is otherwise harmful, objectionable, or
-                                    inaccurate. We are not responsible for any failure or delay in removing such content.
-                                    You hereby consent to such removal and waive any claim against us arising out of such
-                                    removal of content. See "Use of Your Materials" below for a description of the
-                                    procedures to be followed in the event that any party believes that content posted on
-                                    this site infringes on any patent, trademark, trade secret, copyright, right of
-                                    publicity, or other proprietary right of any party.
-                                    <br /> <br />
-                                    In addition, you may not use your account to breach security of another account or
-                                    attempt to gain unauthorized access to another network or server. Not all areas of the
-                                    site may be available to you or other authorized users of the site. You shall not
-                                    interfere with anyone elses use and enjoyment of the site or other similar services.
-                                    Users who violate systems or network security may incur criminal or civil liability.
-                                    <br /> <br />
-                                    You agree that we may at any time, and at our sole discretion, terminate your
-                                    membership, account, or other affiliation with our site without prior notice to you for
-                                    violating any of the above provisions. In addition, you acknowledge that we will
-                                    cooperate fully with investigations of violations of systems or network security at
-                                    other sites, including cooperating with law enforcement authorities in investigating
-                                    suspected criminal violations.
-                                    <br /> <br />
-                                    5. Third Party Sites and Information
-                                    <br /> <br />
-                                    This site may link you to other sites on the Internet or otherwise include references to
-                                    information, documents, software, materials and/or services provided by other parties.
-                                    These sites may contain information or material that some people may find inappropriate
-                                    or offensive. These other sites and parties are not under our control, and you
-                                    acknowledge that we are not responsible for the accuracy, copyright compliance,
-                                    legality, decency, or any other aspect of the content of such sites, nor are we
-                                    responsible for errors or omissions in any references to other parties or their products
-                                    and services. The inclusion of such a link or reference is provided merely as a
-                                    convenience and does not imply endorsement of, or association with, the site or party by
-                                    us, or any warranty of any kind, either express or implied.
-                                    <br /> <br />
-                                    6. Intellectual Property Information
-                                    <br /> <br />
-                                    For purposes of these Terms of Use, "content" is defined as any information, data,
-                                    communications, software, photos, video, graphics, music, sounds, and other material and
-                                    services that can be viewed by users on our site. This includes message boards, chat,
-                                    and other original content.
-                                    <br /> <br />
-                                    By accepting these Terms of Use, you acknowledge and agree that all content presented to
-                                    you on this site is protected by copyrights, trademarks, service marks, patents or other
-                                    proprietary rights and laws, and is the sole property of 247workout.co and/or its
-                                    Affiliates. You are only permitted to use the content as expressly authorized by us or
-                                    the specific content provider. Except for a single copy made for personal use only, you
-                                    may not copy, reproduce, modify, republish, upload, post, transmit, or distribute any
-                                    documents or information from this site in any form or by any means without prior
-                                    written permission from us or the specific content provider, and you are solely
-                                    responsible for obtaining permission before reusing any copyrighted material that is
-                                    available on this site. Any unauthorized use of the materials appearing on this site may
-                                    violate copyright, trademark and other applicable laws and could result in criminal or
-                                    civil penalties.
-                                    <br /> <br />
-                                    Neither we or our Affiliates warrant or represent that your use of materials displayed
-                                    on, or obtained through, this site will not infringe the rights of third parties.
-                                    Content posted on this site infringes on any patent, trademark, trade secret, copyright,
-                                    right of publicity, or other proprietary right of any party.
-                                    <br /> <br />
-                                    The following are registered trademarks, trademarks or service marks of 247workout.co or
-                                    its Affiliates: 247workout.co. All custom graphics, icons, logos and service names are
-                                    registered trademarks, trademarks or service marks of 247workout.co or its Affiliates.
-                                    All other trademarks or service marks are property of their respective owners. Nothing
-                                    in these Terms of Use grants you any right to use any trademark, service mark, logo,
-                                    and/or the name of 247workout.co or its Affiliates.
-                                    <br /> <br />
-                                    7. Unauthorized Use of Materials
-                                    <br /> <br />
-                                    Subject to our Privacy Policy, any communication or material that you transmit to this
-                                    site or to us, whether by electronic mail, post, or other means, for any reason, will be
-                                    treated as non-confidential and non-proprietary. While you retain all rights in such
-                                    communications or material, you grant us and our agents and affiliates a non-exclusive,
-                                    paid-up, perpetual, and worldwide right to copy, distribute, display, perform, publish,
-                                    translate, adapt, modify, and otherwise use such material for any purpose regardless of
-                                    the form or medium (now known or not currently known) in which it is used.
-                                    <br /> <br />
-                                    Please do not submit confidential or proprietary information to us unless we have
-                                    mutually agreed in writing otherwise. We are also unable to accept your unsolicited
-                                    ideas or proposals, so please do not submit them to us in any circumstance.
-                                    <br /> <br />
-                                    We respect the intellectual property of others, and we ask you to do the same. If you or
-                                    any user of this site believes its copyright, trademark or other property rights have
-                                    been infringed by a posting on this site, you or the user should send notification to
-                                    our Designated Agent (as identified below) immediately. To be effective, the
-                                    notification must include:
-                                    <br /> <br />
-                                    1. Identify in sufficient detail the copyrighted work that you believe has been
-                                    infringed upon or other information sufficient to specify the copyrighted work being
-                                    infringed).
-                                    <br /> <br />
-                                    2. Identify the material that you claim is infringing the copyrighted work listed in
-                                    item #1 above.
-                                    <br /> <br />
-                                    3. Provide information reasonably sufficient to permit us to contact you (email address
-                                    is preferred).
-                                    <br /> <br />
-                                    4. Provide information, if possible, sufficient to permit us to notify the
-                                    owner/administrator of the allegedly infringing webpage or other content (email address
-                                    is preferred).
-                                    <br /> <br />
-                                    5. Include the following statement: "I have a good faith belief that use of the
-                                    copyrighted materials described above as allegedly infringing is not authorized by the
-                                    copyright owner, its agent, or the law."
-                                    <br /> <br />
-                                    6. Include the following statement: "I swear, under penalty of perjury, that the
-                                    information in the notification is accurate and that I am the copyright owner or am
-                                    authorized to act on behalf of the owner of an exclusive right that is allegedly
-                                    infringed."
-                                    <br /> <br />
-                                    7. Sign the paper.
-                                    <br /> <br />
-                                    8. Send the written communication to the following address:
-                                    <br /> <br />
-                                    Designated Agent for Claimed Infringement:
-                                    <br /> <br />
-                                    Contact: info@247workout.co
-                                    <br /> <br />
-                                    You acknowledge and agree that upon receipt of a notice of a claim of copyright
-                                    infringement, we may immediately remove the identified materials from our site without
-                                    liability to you or any other party and that the claims of the complaining party and the
-                                    party that originally posted the materials will be referred to the United States
-                                    Copyright Office for adjudication as provided in the Digital Millennium Copyright Act.
-                                    <br /> <br />
-                                    8. Disclaimer of Warranties
-                                    <br /> <br />
-                                    ALL MATERIALS AND SERVICES ON THIS SITE ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE"
-                                    BASIS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT
-                                    LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR
-                                    PURPOSE, OR THE WARRANTY OF NON-INFRINGEMENT. WITHOUT LIMITING THE FOREGOING, WE MAKE NO
-                                    WARRANTY THAT (A) THE SERVICES AND MATERIALS WILL MEET YOUR REQUIREMENTS, (B) THE
-                                    SERVICES AND MATERIALS WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (C) THE
-                                    RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICES OR MATERIALS WILL BE
-                                    EFFECTIVE, ACCURATE OR RELIABLE, OR (D) THE QUALITY OF ANY PRODUCTS, SERVICES, OR
-                                    INFORMATION PURCHASED OR OBTAINED BY YOU FROM THE SITE FROM US OR OUR AFFILIATES WILL
-                                    MEET YOUR EXPECTATIONS OR BE FREE FROM MISTAKES, ERRORS OR DEFECTS.
-                                    <br /> <br />
-                                    THIS SITE COULD INCLUDE TECHNICAL OR OTHER MISTAKES, INACCURACIES OR TYPOGRAPHICAL
-                                    ERRORS. WE MAY MAKE CHANGES TO THE MATERIALS AND SERVICES AT THIS SITE, INCLUDING THE
-                                    PRICES AND DESCRIPTIONS OF ANY PRODUCTS LISTED HEREIN, AT ANY TIME WITHOUT NOTICE. THE
-                                    MATERIALS OR SERVICES AT THIS SITE MAY BE OUT OF DATE, AND WE MAKE NO COMMITMENT TO
-                                    UPDATE SUCH MATERIALS OR SERVICES.
-                                    <br /> <br />
-                                    THE USE OF THE SERVICES OR THE DOWNLOADING OR OTHER ACQUISITION OF ANY MATERIALS THROUGH
-                                    THIS SITE IS DONE AT YOUR OWN DISCRETION AND RISK AND WITH YOUR AGREEMENT THAT YOU WILL
-                                    BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT
-                                    RESULTS FROM SUCH ACTIVITIES.
-                                    <br /> <br />
-                                    Through your use of the site, you may have the opportunities to engage in commercial
-                                    transactions with other users and vendors. You acknowledge that all transactions
-                                    relating to any merchandise or services offered by any party, including, but not limited
-                                    to the purchase terms, payment terms, warranties, guarantees, maintenance and delivery
-                                    terms relating to such transactions, are agreed to solely between the seller or
-                                    purchaser of such merchandize and services and you. WE MAKE NO WARRANTY REGARDING ANY
-                                    TRANSACTIONS EXECUTED THROUGH, OR IN CONNECTION WITH THIS SITE, AND YOU UNDERSTAND AND
-                                    AGREE THAT SUCH TRANSACTIONS ARE CONDUCTED ENTIRELY AT YOUR OWN RISK. ANY WARRANTY THAT
-                                    IS PROVIDED IN CONNECTION WITH ANY PRODUCTS, SERVICES, MATERIALS, OR INFORMATION
-                                    AVAILABLE ON OR THROUGH THIS SITE FROM A THIRD PARTY IS PROVIDED SOLELY BY SUCH THIRD
-                                    PARTY, AND NOT BY US OR ANY OTHER OF OUR AFFILIATES.
-                                    <br /> <br />
-                                    Content available through this site often represents the opinions and judgments of an
-                                    information provider, site user, or other person or entity not connected with us. We do
-                                    not endorse, nor are we responsible for the accuracy or reliability of, any opinion,
-                                    advice, or statement made by anyone other than an authorized 247workout.co spokesperson
-                                    speaking in his/her official capacity. Please refer to the specific editorial policies
-                                    posted on various sections of this site for further information, which policies are
-                                    incorporated by reference into these Terms of Use.
-                                    <br /> <br />
-                                    You understand and agree that temporary interruptions of the services available through
-                                    this site may occur as normal events. You further understand and agree that we have no
-                                    control over third party networks you may access in the course of the use of this site,
-                                    and therefore, delays and disruption of other network transmissions are completely
-                                    beyond our control.
-                                    <br /> <br />
-                                    You understand and agree that the services available on this site are provided "AS IS"
-                                    and that we assume no responsibility for the timeliness, deletion, mis-delivery or
-                                    failure to store any user communications or personalization settings.
-                                    <br /> <br />
-                                    SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES, SO SOME
-                                    OF THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU.
-                                    <br /> <br />
-                                    9. Limitation of Liability
-                                    <br /> <br />
-                                    IN NO EVENT SHALL WE OR OUR AFFILIATES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY
-                                    SPECIAL, PUNITIVE, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND, OR ANY
-                                    DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, THOSE RESULTING FROM LOSS OF USE,
-                                    DATA OR PROFITS, WHETHER OR NOT WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES,
-                                    AND ON ANY THEORY OF LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THE USE OF THIS
-                                    SITE OR OF ANY WEB SITE REFERENCED OR LINKED TO FROM THIS SITE.
-                                    <br /> <br />
-                                    FURTHER, WE SHALL NOT BE LIABLE IN ANY WAY FOR THIRD PARTY GOODS AND SERVICES OFFERED
-                                    THROUGH THIS SITE OR FOR ASSISTANCE IN CONDUCTING COMMERCIAL TRANSACTIONS THROUGH THIS
-                                    SITE, INCLUDING WITHOUT LIMITATION THE PROCESSING OF ORDERS.
-                                    <br /> <br />
-                                    SOME JURISDICTIONS PROHIBIT THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL
-                                    OR INCIDENTAL DAMAGES, SO THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU.
-                                    <br /> <br />
-                                    10. Indemnification
-                                    <br /> <br />
-                                    Upon a request by us, you agree to defend, indemnify, and hold us and our Affiliates
-                                    harmless from all liabilities, claims, and expenses, including attorney’s fees, that
-                                    arise from your use or misuse of this site. We reserve the right, at our own expense, to
-                                    assume the exclusive defense and control of any matter otherwise subject to
-                                    indemnification by you, in which event you will cooperate with us in asserting any
-                                    available defenses.
-                                    <br /> <br />
-                                    11. Security and Password
-                                    <br /> <br />
-                                    You are solely responsible for maintaining the confidentiality of your password and
-                                    account and for any and all statements made and acts or omissions that occur through the
-                                    use of your password and account. Therefore, you must take steps to ensure that others
-                                    do not gain access to your password and account. Our personnel will never ask you for
-                                    your password. You may not transfer or share your account with anyone, and we reserve
-                                    the right to immediately terminate your account if you do transfer or share your
-                                    account.
-                                    <br /> <br />
-                                    12. Participation in Promotions
-                                    <br /> <br />
-                                    From time to time, this site may include advertisements offered by third parties. You
-                                    may enter into correspondence with or participate in promotions of the advertisers
-                                    showing their products on this site. Any such correspondence or promotions, including
-                                    the delivery of and the payment for goods and services, and any other terms, conditions,
-                                    warranties or representations associated with such correspondence or promotions, are
-                                    solely between you and the advertiser. We assume no liability, obligation or
-                                    responsibility for any part of any such correspondence or promotion.
-                                    <br /> <br />
-                                    13. E-mail, Messaging, Blogging, and Chat Services
-                                    <br /> <br />
-                                    We may make email, messaging, blogging, or chat services (collectively,
-                                    "Communications") available to users of our site, either directly or through a
-                                    third-party provider. We make available separate supplemental agreements characterizing
-                                    the relationship between you and us that, except where expressly noted or contradictory,
-                                    includes these Terms.
-                                    <br /> <br />
-                                    We will not inspect or disclose the contents of private Communications except with the
-                                    consent of the sender or the recipient, or in the narrowly-defined situations provided
-                                    under the Electronic Communications Privacy Act, or as other required by law or by court
-                                    or governmental order. Further information is available in our Privacy Policy.
-                                    <br /> <br />
-                                    We may employ automated monitoring devices or techniques to protect our users from mass
-                                    unsolicited communications (also known as "spam") and/or other types of electronic
-                                    communications that we deem inconsistent with our business purposes. However, such
-                                    devices or techniques are not perfect, and we will not be responsible for any legitimate
-                                    communication that is blocked, or for any unsolicited communication that is not blocked.
-                                    <br /> <br />
-                                    Mailboxes may have a limited storage capacity. If you exceed the maximum permitted
-                                    storage space, we may employ automated devices that delete or block email messages that
-                                    exceed the limit. We will not be responsible for such deleted or blocked messages.
-                                    <br /> <br />
-                                    14. International Use
-                                    <br /> <br />
-                                    Although this site may be accessible worldwide, we make no representation that materials
-                                    on this site are appropriate or available for use in locations outside the United
-                                    States, and accessing them from territories where their contents are illegal is
-                                    prohibited. Those who choose to access this site from other locations do so on their own
-                                    initiative and are responsible for compliance with local laws. Any offer for any
-                                    product, service, and/or information made in connection with this site is void where
-                                    prohibited.
-                                    <br /> <br />
-                                    15. Termination of Use
-                                    <br /> <br />
-                                    You agree that we may, in our sole discretion, terminate or suspend your access to all
-                                    or part of the site with or without notice and for any reason, including, without
-                                    limitation, breach of these Terms of Use. Any suspected fraudulent, abusive or illegal
-                                    activity may be grounds for terminating your relationship and may be referred to
-                                    appropriate law enforcement authorities.
-                                    <br /> <br />
-                                    Upon termination or suspension, regardless of the reasons therefore, your right to use
-                                    the services available on this site immediately ceases, and you acknowledge and agree
-                                    that we may immediately deactivate or delete your account and all related information
-                                    and files in your account and/or bar any further access to such files or this site. We
-                                    shall not be liable to you or any third party for any claims or damages arising out of
-                                    any termination or suspension or any other actions taken by us in connection with such
-                                    termination or suspension.
-                                    <br /> <br />
-                                    16. Governing Law
-                                    <br /> <br />
-                                    This site (excluding any linked sites) is controlled by us from our offices within the
-                                    Estonia, United States of America. It can be accessed from all 50 states, as well as
-                                    from other countries around the world. As each of these places has laws that may differ
-                                    from those of Estonia, by accessing this site both of us agree that the statutes and
-                                    laws of the State of Estonia, without regard to the conflicts of laws principles thereof
-                                    and the United Nations Convention on the International Sales of Goods, will apply to all
-                                    matters relating to the use of this site and the purchase of products and services
-                                    available through this site. Each of us agrees and hereby submits to the exclusive
-                                    personal jurisdiction and venue any court of competent jurisdiction within the State of
-                                    Estonia with respect to such matters.
-                                    <br /> <br />
-                                    17. Notices
-                                    <br /> <br />
-                                    All notices to a party shall be in writing and shall be made either via email or
-                                    conventional mail. Notices to us must be sent to the attention of Customer Service at
-                                    info@247workout.co.com, if by email, or at 247workout.co Narva mnt 9, Tartu, Estonia,
-                                    51009 if by conventional mail. Notices to you may be sent to the address supplied by you
-                                    as part of your Registration Data. In addition, we may broadcast notices or messages
-                                    through the site to inform you of changes to the site or other matters of importance,
-                                    and such broadcasts shall constitute notice to you at the time of sending.
-                                    <br /> <br />
-                                    18. Entire Agreement
-                                    <br /> <br />
-                                    These terms and conditions constitute the entire agreement and understanding between us
-                                    concerning the subject matter of this agreement and supersedes all prior agreements and
-                                    understandings of the parties with respect to that subject matter. These Terms of Use
-                                    may not be altered, supplemented, or amended by the use of any other document(s). Any
-                                    attempt to alter, supplement or amend this document or to enter an order for products or
-                                    services which are subject to additional or altered terms and conditions shall be null
-                                    and void, unless otherwise agreed to in a written agreement signed by you and us. To the
-                                    extent that anything in or associated with this site is in conflict or inconsistent with
-                                    these Terms of Use, these Terms of Use shall take precedence.
-                                    <br /> <br />
-                                    19. Miscellaneous
-                                    <br /> <br />
-                                    In any action to enforce these Terms of Use, the prevailing party will be entitled to
-                                    costs and attorneys fees. Any cause of action brought by you against us or our
-                                    Affiliates must be instituted with one year after the cause of action arises or be
-                                    deemed forever waived and barred.
-                                    <br /> <br />
-                                    You may not assign your rights and obligations under these Terms of Use to any party,
-                                    and any purported attempt to do so will be null and void. We may free assign our rights
-                                    and obligations under these Terms of Use.
-                                    <br /> <br />
-                                    You agree not to sell, resell, reproduce, duplicate, copy or use for any commercial
-                                    purposes any portion of this site, or use of or access to this site.
-                                    <br /> <br />
-                                    In addition to any excuse provided by applicable law, we shall be excused from liability
-                                    for non-delivery or delay in delivery of products and services available through our
-                                    site arising from any event beyond our reasonable control, whether or not foreseeable by
-                                    either party, including but not limited to, labor disturbance, war, fire, accident,
-                                    adverse weather, inability to secure transportation, governmental act or regulation, and
-                                    other causes or events beyond our reasonable control, whether or not similar to those
-                                    which are enumerated above.
-                                    <br /> <br />
-                                    If any part of these Terms of Use is held invalid or unenforceable, that portion shall
-                                    be construed in a manner consistent with applicable law to reflect, as nearly as
-                                    possible, the original intentions of the parties, and the remaining portions shall
-                                    remain in full force and effect.
-                                    <br /> <br />
-                                    Any failure by us to enforce or exercise any provision of these Terms of Use or related
-                                    rights shall not constitute a waiver of that right or provision.
-                                    <br /> <br />
-                                    20. Contact Information
-                                    <br /> <br />
-                                    Except as explicitly noted on this site, the services available through this site are
-                                    offered by 247workout.co. If you notice that any user is violating these Terms of Use,
-                                    please contact us at info@247workout.co.
-                                    <br /> <br />
-                                    <br /> <br />
+                                <p>Acceptance of Terms
+                                    <br />
+                                    <br />
+                                    The services that Rubiktalk provides to you are subject to the following Terms of use
+                                    ("TOU"). Rubiktalk reserves the right to update and modify the TOU at any time without
+                                    notice to you. The most current version of the TOU can be reviewed by clicking on the
+                                    "Terms of Use" hyperlink located at the bottom of our webpages. When we make updates to
+                                    the TOU, Rubiktalk will update the date at the top of this page. By using the website
+                                    after a new version of the TOU has been posted, you agree to the terms of such new
+                                    version.
+                                    <br />
+                                    <br />
+                                    <br />
+                                    Description of Services
+                                    <br />
+                                    <br />
+                                    Through its network of Web properties, Rubiktalk provides you with access to a variety
+                                    of resources, including developer tools, download areas, communication forums and
+                                    product information (collectively "Services"). The Services, including any updates,
+                                    enhancements, new features, and/or the addition of any new Web properties, are subject
+                                    to these TOU.
+                                    <br />
+                                    <br />
+                                    <br />
+                                    Personal and Non-Commercial Use Limitation
+                                    <br />
+                                    <br />
+                                    Unless otherwise specified, the Services are for your personal and non-commercial use.
+                                    You may not modify, copy, distribute, transmit, display, perform, reproduce, publish,
+                                    license, create derivative works from, transfer, or sell any information, software,
+                                    products, or services obtained from the Services.
+                                    <br />
+                                    <br />
+                                    <br />
+                                    Privacy and Protection of Personal Information
+                                    <br />
+                                    <br />
+                                    Review the Privacy Statement disclosures relating to the collection and use of your
+                                    personal data.
+                                    <br />
+                                    <br />
+                                    <br />
+                                    Content
+                                    <br />
+                                    <br />
+                                    All content included in or made available through the Services, such as text, graphics,
+                                    logos, icons, images, sounds, music, digital downloads, data compilation, software, and
+                                    documents, is the exclusive property of Rubiktalk or its content suppliers and is
+                                    protected by the various applicable trade dress, copyright, trademark, patent, and other
+                                    intellectual property and unfair competition laws in the Germany and internationally
+                                    (collectively, "Content"). All rights not expressly granted to you in this TOU are
+                                    reserved and retained by Rubiktalk or its licensors, suppliers, publishers,
+                                    rightsholders, or other content providers.
+                                    <br />
+                                    <br />
+                                    <br />
+                                    Software
+                                    <br />
+                                    <br />
+                                    Any software that is made available to download from the Services ("Software") is the
+                                    copyrighted work of Rubiktalk and/or its suppliers. Use of the Software is governed by
+                                    the terms of the end user license agreement, if any, which accompanies or is included
+                                    with the Software ("License Agreement"). An end user will be unable to install any
+                                    Software that is accompanied by or includes a License Agreement, unless he or she first
+                                    agrees to the License Agreement terms. Third party scripts or code, linked to or
+                                    referenced from this website, are licensed to you by the third parties that own such
+                                    code, not by Rubiktalk.
+                                    <br />
+                                    <br />
+                                    The Software is made available for download solely for use by end users according to the
+                                    License Agreement. Any reproduction or redistribution of the Software not in accordance
+                                    with the License Agreement is expressly prohibited by law and may result in severe civil
+                                    and criminal penalties. Violators will be prosecuted to the maximum extent possible.
+                                    <br />
+                                    <br />
+                                    Without limiting the foregoing, copying or reproduction of the software to any other
+                                    server or location for further reproduction or redistribution is expressly prohibited,
+                                    unless such reproduction or redistribution is expressly permitted by the license
+                                    agreement accompanying such software.
+                                    <br />
+                                    <br />
+                                    The software is warranted, if at all, only according to the terms of the license
+                                    agreement. Except as warranted in the license agreement, Rubiktalk corporation hereby
+                                    disclaims all warranties and conditions with regard to the software, including all
+                                    warranties and conditions of merchantability, whether express, implied or statutory,
+                                    fitness for a particular purpose, title and non-infringement. For your convenience,
+                                    Rubiktalk may make available as part of the services or in its software products, tools,
+                                    and utilities for use and/or download. Rubiktalk does not make any assurances with
+                                    regard to the accuracy of the results or output that derives from such use of any such
+                                    tools and utilities. Please respect the intellectual property rights of others when
+                                    using the tools and utilities made available on the services or in Rubiktalk software
+                                    products.
+                                    <br />
+                                    <br />
+                                    Restricted Rights Legend. Any Software which is downloaded from the Services for or on
+                                    behalf of the United States of America, its agencies and/or instrumentalities ("US
+                                    Government"), is provided with Restricted Rights. Use, duplication, or disclosure by the
+                                    US Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of the
+                                    Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or
+                                    subparagraphs (c)(1) and (2) of the Commercial Computer Software - Restricted Rights at
+                                    48 CFR 52.227-19, as applicable.
+                                    <br />
+                                    <br />
+                                    <br />
+                                    Documents
+                                    <br />
+                                    <br />
+                                    Permission to use Documents (such as white papers, press releases, datasheets, and FAQs)
+                                    from the Services is granted, provided that (1) the below copyright notice appears in
+                                    all copies and that both the copyright notice and this permission notice appear, (2)
+                                    unless explicitly covered by another license or agreement, use of such Documents from
+                                    the Services is for informational and non-commercial or personal use only and will not
+                                    be copied or posted on any network computer or broadcast in any media, and (3) no
+                                    modifications of any Documents are made. Accredited educational institutions, such as
+                                    K-12, universities, private/public colleges, and state community colleges, may download
+                                    and reproduce the Documents for distribution in the classroom. Distribution outside the
+                                    classroom requires express written permission. Use for any other purpose is expressly
+                                    prohibited by law and may result in severe civil and criminal penalties. Violators will
+                                    be prosecuted to the maximum extent possible.
+                                    <br />
+                                    <br />
+                                    Documents specified above do not include the design or layout of the Rubiktalk.com
+                                    website or any other Rubiktalk owned, operated, licensed, or controlled site. Elements
+                                    of Rubiktalk websites are protected by trade dress, trademark, unfair competition, and
+                                    other laws and may not be copied or imitated in whole or in part. No logo, graphic,
+                                    sound or image from any Rubiktalk website may be copied or retransmitted unless
+                                    expressly permitted by Rubiktalk.
+                                    <br />
+                                    <br />
+                                    Rubiktalk and/or its respective suppliers make no representations about the suitability
+                                    of the information contained in the documents and related graphics published as part of
+                                    the services for any purpose. All such documents and related graphics are provided "as
+                                    is" without warranty of any kind. Rubiktalk and/or its respective suppliers hereby
+                                    disclaim all warranties and conditions with regard to this information, including all
+                                    warranties and conditions of merchantability, whether express, implied or statutory,
+                                    fitness for a particular purpose, title and non-infringement. In no event shall
+                                    Rubiktalk and/or its respective suppliers be liable for any special, indirect or
+                                    consequential damages, or any damages whatsoever resulting from loss of use, data, or
+                                    profits, whether in an action of contract, negligence or other tortious action, arising
+                                    out of or in connection with the use or performance of information available from the
+                                    services.
+                                    <br />
+                                    <br />
+                                    The documents and related graphics published on the services could include technical
+                                    inaccuracies or typographical errors. Changes are periodically added to the information
+                                    herein. Rubiktalk and/or its respective suppliers may make improvements and/or changes
+                                    in the product(s) and/or the program(s) described herein at any time.
+                                    <br />
+                                    <br />
+                                    <br />
+                                    Limitation of Liability
+                                    <br />
+                                    <br />
+                                    In no event shall Rubiktalk and/or its respective suppliers be liable for any special,
+                                    indirect or consequential damages, or any damages whatsoever resulting from loss of use,
+                                    data, or profits, whether in an action of contract, negligence or other tortious action,
+                                    arising out of or in connection with the use or performance of software, documents,
+                                    provision of or failure to provide services, or information available from the services.
+                                    <br />
+                                    <br />
+                                    Member Account, Password, and Security
+                                    <br />
+                                    <br />
+                                    If any of the Services requires you to open an account, you must complete the
+                                    registration process by providing us with current, complete, and accurate information as
+                                    prompted by the applicable registration form. You also will choose a password and a
+                                    username. You are entirely responsible for maintaining the confidentiality of your
+                                    password and account. Furthermore, you are entirely responsible for any and all
+                                    activities that occur under your account. You agree to notify Rubiktalk immediately of
+                                    any unauthorized use of your account or any other breach of security. Rubiktalk will not
+                                    be liable for any loss that you may incur as a result of someone else using your
+                                    password or account, either with or without your knowledge. However, you could be held
+                                    liable for losses incurred by Rubiktalk or another party due to someone else using your
+                                    account or password. You may not use anyone else's account at any time, without the
+                                    permission of the account holder.
+                                    <br />
+                                    <br />
+                                    <br />
+                                    No Unlawful or Prohibited Use
+                                    <br />
+                                    <br />
+                                    As a condition of your use of the Services, you will not use the Services for any
+                                    purpose that is unlawful or prohibited by these terms, conditions, and notices. You may
+                                    not use the Services in any manner that could damage, disable, overburden, or impair any
+                                    Rubiktalk server, or the network(s) connected to any Rubiktalk server, or interfere with
+                                    any other party's use and enjoyment of any Services. You may not attempt to gain
+                                    unauthorized access to any Services, other accounts, computer systems or networks
+                                    connected to any Rubiktalk server or to any of the Services, through hacking, password
+                                    mining or any other means. You may not obtain or attempt to obtain any materials or
+                                    information through any means not intentionally made available through the Services. You
+                                    may not attempt to copy or change, alter, or otherwise attempt to modify the Services or
+                                    these TOU.
+                                    <br />
+                                    <br />
+                                    <br />
+                                    Use of Services
+                                    <br />
+                                    <br />
+                                    The Services may contain e-mail services, bulletin board services, chat areas, news
+                                    groups, forums, communities, personal web pages, calendars, photo albums, file cabinets
+                                    and/or other message or communication facilities designed to enable you to communicate
+                                    with others (each a "Communication Service" and collectively "Communication Services").
+                                    You agree to use the Communication Services only to post, send and receive messages and
+                                    material that are proper and, when applicable, related to the particular Communication
+                                    Service. By way of example, and not as a limitation, you agree that when using the
+                                    Communication Services, you will not:
+                                    <br />
+                                    · Use the Communication Services in connection with surveys, contests, pyramid schemes,
+                                    chain letters, junk email, spamming or any duplicative or unsolicited messages
+                                    (commercial or otherwise).
+                                    <br />
+                                    · Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as
+                                    rights of privacy and publicity) of others.
+                                    <br />
+                                    · Publish, post, upload, distribute or disseminate any inappropriate, profane,
+                                    defamatory, obscene, indecent, or unlawful topic, name, material, or information.
+                                    <br />
+                                    · Upload, or otherwise make available, files that contain images, photographs, software,
+                                    or other material protected by intellectual property laws, including, by way of example,
+                                    and not as limitation, copyright, or trademark laws (or by rights of privacy or
+                                    publicity) unless you own or control the rights thereto or have received all necessary
+                                    consent to do the same.
+                                    <br />
+                                    · Use any material or information, including images or photographs, which are made
+                                    available through the Services in any manner that infringes any copyright, trademark,
+                                    patent, trade secret, or other proprietary right of any party.
+                                    <br />
+                                    · Upload files that contain viruses, Trojan horses, worms, time bombs, cancelbots,
+                                    corrupted files, or any other similar software or programs that may damage the operation
+                                    of another's computer or property of another.
+                                    <br />
+                                    · Advertise or offer to sell or buy any goods or services for any business purpose
+                                    unless such Communication Services specifically allows such messages.
+                                    <br />
+                                    · Download any file posted by another user of a Communication Service that you know, or
+                                    reasonably should know, cannot be legally reproduced, displayed, performed, and/or
+                                    distributed in such manner.
+                                    <br />
+                                    · Falsify or delete any copyright management information, such as author attributions,
+                                    legal or other proper notices or proprietary designations or labels of the origin or
+                                    source of software or other material contained in a file that is uploaded.
+                                    <br />
+                                    · Restrict or inhibit any other user from using and enjoying the Communication Services.
+                                    <br />
+                                    · Violate any code of conduct or other guidelines which may be applicable for any
+                                    particular Communication Service.
+                                    <br />
+                                    · Harvest or otherwise collect information about others, including e-mail addresses.
+                                    <br />
+                                    · Violate any applicable laws or regulations.
+                                    <br />
+                                    · Create a false identity for the purpose of misleading others.
+                                    <br />
+                                    · Use, download or otherwise copy, or provide (whether or not for a fee) to a person or
+                                    entity any directory of users of the Services or other user or usage information or any
+                                    portion thereof.
+                                    <br />
+                                    Rubiktalk has no obligation to monitor the Communication Services. However, Rubiktalk
+                                    reserves the right to review materials posted to the Communication Services and to
+                                    remove any materials in its sole discretion. Rubiktalk reserves the right to terminate
+                                    your access to any or all of the Communication Services at any time, without notice, for
+                                    any reason whatsoever.
+                                    <br />
+                                    <br />
+                                    Rubiktalk reserves the right at all times to disclose any information as Rubiktalk deems
+                                    necessary to satisfy any applicable law, regulation, legal process or governmental
+                                    request, or to edit, refuse to post or to remove any information or materials, in whole
+                                    or in part, in Rubiktalk's sole discretion.
+                                    <br />
+                                    <br />
+                                    Always use caution when giving out any personally identifiable information about
+                                    yourself or your children in any Communication Services. Rubiktalk does not control or
+                                    endorse the content, messages or information found in any Communication Services and,
+                                    therefore, Rubiktalk specifically disclaims any liability with regard to the
+                                    Communication Services and any actions resulting from your participation in any
+                                    Communication Services. Managers and hosts are not authorized Rubiktalk spokespersons,
+                                    and their views do not necessarily reflect those of Rubiktalk.
+                                    <br />
+                                    <br />
+                                    Materials uploaded to the Communication Services may be subject to posted limitations on
+                                    usage, reproduction and/or dissemination; you are responsible for adhering to such
+                                    limitations if you download the materials.
+                                    <br />
+                                    <br />
+                                    <br />
+                                    Materials Provided to Rubiktalk or Posted at any Rubiktalk Website
+                                    <br />
+                                    <br />
+                                    Rubiktalk does not claim ownership of the materials you provide to Rubiktalk (including
+                                    feedback and suggestions) or post, upload, input or submit to any Services or its
+                                    associated services for review by the general public, or by the members of any public or
+                                    private community, (each a "Submission" and collectively "Submissions''). However, by
+                                    posting, uploading, inputting, providing or submitting ("Posting") your Submission you
+                                    are granting Rubiktalk, its affiliated companies and necessary sublicensees permission
+                                    to use your Submission in connection with the operation of their Internet businesses
+                                    (including, without limitation, all Rubiktalk Services), including, without limitation,
+                                    the license rights to: copy, distribute, transmit, publicly display, publicly perform,
+                                    reproduce, edit, translate and reformat your Submission; to publish your name in
+                                    connection with your Submission; and the right to sublicense such rights to any supplier
+                                    of the Services.
+                                    <br />
+                                    <br />
+                                    No compensation will be paid with respect to the use of your Submission, as provided
+                                    herein. Rubiktalk is under no obligation to post or use any Submission you may provide,
+                                    and Rubiktalk may remove any Submission at any time in its sole discretion.
+                                    <br />
+                                    <br />
+                                    By Posting a Submission you warrant and represent that you own or otherwise control all
+                                    of the rights to your Submission as described in these Terms of Use including, without
+                                    limitation, all the rights necessary for you to provide, post, upload, input or submit
+                                    the Submissions.
+                                    <br />
+                                    <br />
+                                    In addition to the warranty and representation set forth above, by Posting a Submission
+                                    that contain images, photographs, pictures or that are otherwise graphical in whole or
+                                    in part ("Images"), you warrant and represent that (a) you are the copyright owner of
+                                    such Images, or that the copyright owner of such Images has granted you permission to
+                                    use such Images or any content and/or images contained in such Images consistent with
+                                    the manner and purpose of your use and as otherwise permitted by these Terms of Use and
+                                    the Services, (b) you have the rights necessary to grant the licenses and sublicenses
+                                    described in these Terms of Use, and (c) that each person depicted in such Images, if
+                                    any, has provided consent to the use of the Images as set forth in these Terms of Use,
+                                    including, by way of example, and not as a limitation, the distribution, public display
+                                    and reproduction of such Images. By Posting Images, you are granting (a) to all members
+                                    of your private community (for each such Images available to members of such private
+                                    community), and/or (b) to the general public (for each such Images available anywhere on
+                                    the Services, other than a private community), permission to use your Images in
+                                    connection with the use, as permitted by these Terms of Use, of any of the Services,
+                                    (including, by way of example, and not as a limitation, making prints and gift items
+                                    which include such Images), and including, without limitation, a non-exclusive,
+                                    world-wide, royalty-free license to: copy, distribute, transmit, publicly display,
+                                    publicly perform, reproduce, edit, translate and reformat your Images without having
+                                    your name attached to such Images, and the right to sublicense such rights to any
+                                    supplier of the Services. The licenses granted in the preceding sentences for Images
+                                    will terminate at the time you completely remove such Images from the Services, provided
+                                    that such termination shall not affect any licenses granted in connection with such
+                                    Images prior to the time you completely remove such Images. No compensation will be paid
+                                    with respect to the use of your Images.
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <br />
+                                    Links to Third-party Sites
+                                    <br />
+                                    <br />
+                                    The links in this area will let you leave Rubiktalk’s site. The linked sites are not
+                                    under the control of Rubiktalk and Rubiktalk is not responsible for the contents of any
+                                    linked site or any link contained in a linked site, or any changes or updates to such
+                                    sites. Rubiktalk is not responsible for webcasting, or any other form of transmission
+                                    received from any linked site. Rubiktalk is providing these links to you only as a
+                                    convenience, and the inclusion of any link does not imply endorsement by Rubiktalk of
+                                    the site.
+                                    <br />
+                                    <br />
+                                    <br />
+                                    Unsolicited Idea Submission Policy
+                                    <br />
+                                    <br />
+                                    Rubiktalk or any of its employees do not accept or consider unsolicited ideas, including
+                                    ideas for new advertising campaigns, new promotions, new products or technologies,
+                                    processes, materials, marketing plans or new product names. Please do not send any
+                                    original creative artwork, samples, demos, or other works. The sole purpose of this
+                                    policy is to avoid potential misunderstandings or disputes when Rubiktalk’s products or
+                                    marketing strategies might seem similar to ideas submitted to Rubiktalk. So, please do
+                                    not send your unsolicited ideas to Rubiktalk or anyone at Rubiktalk. If, despite our
+                                    request that you not send us your ideas and materials, you still send them, please
+                                    understand that Rubiktalk makes no assurances that your ideas and materials will be
+                                    treated as confidential or proprietary.
+                                    <br />
+                                    <br />
                                 </p>
                             </div>
                         </div>

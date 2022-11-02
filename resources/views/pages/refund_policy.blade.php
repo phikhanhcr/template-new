@@ -2,30 +2,12 @@
 
 @section('main')
 <div class="site-wrapper overflow-hidden">
-    <div class="breadcrumb-section">
-        <div class="breadcrumb-section__bg-shape">
-            <img src="/img/breadcrumb-shape.png" alt="breadcrumb-shape">
-        </div>
-        <div class="breadcrumb-section__shape-1 floating-Y-animation-reverse">
-            <img src="/img/shape-1.svg" class="make-it-inline w-100" alt="breadcrumb-shape">
-        </div>
-        <div class="breadcrumb-section__shape-2 circle-animation">
-            <img src="/img/shape-2.svg" class="make-it-inline w-100" alt="breadcrumb-shape">
-        </div>
-        <div class="breadcrumb-section__shape-3  floating-Y-animation-02">
-            <img src="/img/shape-3.svg" class="make-it-inline w-100" alt="breadcrumb-shape">
-        </div>
+    <div class="inner-hero-area bg-gradient">
         <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-xl-8 col-lg-8 col-md-10 col-sm-11 col-xs-11">
-                    <div class="breadcrumb-section__content hero-content text-center">
-                        <h1 class="heading-light title mb-20 text-light">Refund Policy for Premium Plans</h1>
-                        <nav aria-label="breadcrumb">
-                            <ol class="breadcrumb justify-content-center">
-                                <li class="breadcrumb-item text-light">Home</li>
-                                <li class="breadcrumb-item text-light" aria-current="page">Refund Policy for Premium Plans</li>
-                            </ol>
-                        </nav>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="inner-hero-text">
+                        <h1 class="title" style="line-height: 80px">Refund Policy for Premium Plans</h1>
                     </div>
                 </div>
             </div>

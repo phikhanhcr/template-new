@@ -41,6 +41,9 @@
     <link rel="stylesheet" href="/css/icons.css">
     <link rel="stylesheet" href="/css/typo.css">
     <link rel="stylesheet" href="/css/all.css">
+    <link rel="stylesheet" href="fonts/icon-font/css/style.css">
+    <link rel="stylesheet" href="fonts/typography-font/em.css">
+    <link rel="stylesheet" href="fonts/fontawesome-5/css/all.css">
     <!-- Plugin'stylesheets  -->
     <link rel="stylesheet" href="/css/aos.min.css">
     <link rel="stylesheet" href="/css/jquery.fancybox.min.css">
@@ -52,8 +55,8 @@
     <link rel="stylesheet" href="/css/common.css">
     <link rel="stylesheet" href="/css/custom.css">
     <!-- Vendor stylesheets  -->
-    <link rel="stylesheet" href="/css/main.css">
     <link rel="stylesheet" href="/css/settings.css">
+    <link rel="stylesheet" href="/css/main.css">
 </head>
 
 <body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">

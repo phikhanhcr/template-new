@@ -1,60 +1,65 @@
-<footer class="footer-area--01 footer-area--01--modifi">
+<div class="footer-section footer-1">
     <div class="container">
+      <div class="footer-top">
         <div class="row justify-content-center">
-            <div class="col-lg-3 col-xl-3 col-xxl-3 col-sm-6 col-xs-9 col-10 order-sm-1 order-lg-1">
-                <div class="footer-content text-center text-sm-start">
-                    <a href="{{ route("getIndex") }}" class="footer-content--logo d-block mb-0">
-                        <img src="/img/247/247workout-b-01.png" style="max-width: 180px;" alt="logo">
-                    </a>
-                    <p class="footer-content--text text-dark">247workout.co is simpler and more powerful than a notebook, and designed to stay out of your way. Plan your training and track your progress.
-                    </p>
-                </div>
+          <div class="col-lg-3 col-md-4">
+            <div class="footer-logo mb--50">
+              <img src="./image/png/footer-logo.png" alt="">
+              <p class="mt-4 pr-4">Communicate and convey ideas to accomplish more responsibilities together with Rubiktalk.
+              </p>
             </div>
-            <div class="col-lg-3 col-xl-3 col-xxl-3 col-sm-4 col-xs-11 offset-sm-1 offset-lg-0 order-sm-2 order-lg-2">
-                <div class="footer-widget footer-widget--02 text-center text-sm-start">
-                    <h1 class="footer-widget--title">Company</h1>
-                    <ul class="footer-widget--list m-0 p-0 list-unstyled">
+          </div>
+          <div class="col-lg-9 col-md-8">
+            <div class="row">
+                <div class="col-6 col-lg-4">
+                    <div class="single-footer mb--50 mb-lg--30">
+                      <h5 class="footer-title">About</h5>
+                      <ul class="footer-list">
                         <li>
                             <a href="{{ route('getAboutUs') }}">About Us</a>
                         </li>
                         <li>
                             <a href="{{ route('getContact') }}">Contact Us</a>
                         </li>
-                    </ul>
+                      </ul>
+                    </div>
+                  </div>
+              <div class="col-6 col-lg-4">
+                <div class="single-footer mb--50 mb-lg--30">
+                  <h5 class="footer-title">Learn</h5>
+                  <ul class="footer-list">
+                    <li>
+                        <a href="{{ route('getRenewalPolicy') }}">Renewal Policy</a>
+                    </li>
+                    <li>
+                        <a href="{{ route('getRefundPolicy') }}">Refund Policy</a>
+                    </li>
+                    <li>
+                        <a href="{{ route('getTermOfService') }}">Terms of Service</a>
+                    </li>
+                  </ul>
                 </div>
-            </div>
-            <div class="col-lg-3 col-xl-3 col-xxl-3 col-sm-4 col-xs-11 offset-sm-1 offset-lg-0 order-sm-4 order-lg-3">
-                <div class="footer-widget footer-widget--02 text-center text-sm-start">
-                    <h5 class="footer-widget--title">Policies</h5>
-                    <ul class="footer-widget--list m-0 p-0 list-unstyled">
-                        <li>
-                            <a href="{{ route('getRenewalPolicy') }}">Renewal Policy</a>
-                        </li>
-                        <li>
-                            <a href="{{ route('getRefundPolicy') }}">Refund Policy</a>
-                        </li>
-                        <li>
-                            <a href="{{ route('getTermOfService') }}">Terms of Service</a>
-                        </li>
-                    </ul>
+              </div>
+              <div class="col-6 col-lg-4">
+                <div class="single-footer mb--50 mb-lg--30">
+                  <h5 class="footer-title">Contact Info
+                  </h5>
+                  <ul class="footer-list text-light">
+                    <li>Aschauer Strasse 32a</li>
+                    <li>81549 Munich, Germany</li>
+                    <li>info@rubiktalk.com 
+                    </li>
+                  </ul>
                 </div>
+              </div>
             </div>
-            <div class="col-lg-3 col-xl-3 col-xxl-3 col-sm-6 col-xs-11 order-sm-3 order-lg-4">
-                <div class="footer-widget footer-widget--03 text-center text-sm-start">
-                    <h5 class="footer-widget--title">Contact Info</h5>
-                    <ul class="footer-widget--info m-0 p-0 list-unstyled">
-                        <li>Aschauer Strasse 32a</li>
-                        <li>81549 Munich, Germany</li>
-                        <li class="footer-2-datails">
-                            <i class="fas fa-envelope"></i>
-                            <a href="#"> info@247workout.co</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
+          </div>
         </div>
-        <div class="copyright-area">
-            <p>© 2022 247workout.co</p>
+      </div>
+      <div class="copyright-area">
+        <div class="row align-items-center d-flex justify-content-center">
+            <p class="copyright-text">&copy; rubiktalk.com</p>
         </div>
+      </div>
     </div>
-</footer>
+  </div>
