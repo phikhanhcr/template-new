@@ -232,6 +232,6 @@ return [
 
     ],
 
-    'SITE_NAME' => env('SITE_NAME', '247workout.co')
+    'SITE_NAME' => env('SITE_NAME', 'rubiktalk.com')
 
 ];

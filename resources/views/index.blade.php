@@ -11,7 +11,7 @@
                 <div class="col-lg-5 col-md-8 col-sm-9 order-lg-2">
                     <div class="omga-01__hero-img-group">
                         <div class="img-main" data-aos="fade-down" data-aos-duration="500" data-aos-once="true">
-                            <img src="./image/png/landing1-hero-phone.png" alt="">
+                            <img src="/img/rubiktalk/anh1.png" style="max-width: 500px;" alt="">
                         </div>
                         <div class="abs-img img-1" data-aos="fade-right" data-aos-duration="400" data-aos-once="true"
                             data-aos-delay="300">
@@ -116,21 +116,9 @@
                 <div class="col-lg-6 order-lg-2  col-md-9 col-sm-10">
                     <div class="omga-01__content-img-group omga-01__content-img-group-1 position-relative ">
                         <div class="img-1" data-aos="fade-down" data-aos-duration="400" data-aos-once="true">
-                            <!-- <img src="./image/png/content-img1.png" alt="" class="d-none d-md-block"> -->
-                            <img src="./image/png/content-img1--mobile.webp" alt="">
+                            <img src="/img/rubiktalk/anh2.png" style="max-width: 500px" alt="">
                         </div>
-                        <div class="abs-img img-2" data-aos="fade-right" data-aos-duration="400" data-aos-once="true"
-                            data-aos-delay="300">
-                            <div class="omga-01__image-card-2 card-yellow">
-                                <div class="card-icon">
-                                    <i class="fas fa-bell"></i>
-                                </div>
-                                <div class="card-text">
-                                    <span class="date">Next meeting on 30 mins</span>
-                                    <p>Project Discussion with John</p>
-                                </div>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
                 <div class="col-lg-6 order-lg-1" data-aos="fade-right" data-aos-duration="500" data-aos-once="true">
@@ -156,20 +144,9 @@
                 <div class="col-lg-5 col-md-9 col-sm-10 mb--30 mb-lg--0">
                     <div class="omga-01__content-img-group omga-01__content-img-group-2 position-relative">
                         <div class="img-1" data-aos="fade-down" data-aos-duration="400" data-aos-once="true">
-                            <img src="./image/png/content-img2--mobile.webp" alt="">
+                            <img src="/img/rubiktalk/anh3.png" alt="" style="">
                         </div>
-                        <div class="abs-img img-2" data-aos="fade-right" data-aos-duration="400" data-aos-once="true"
-                            data-aos-delay="300">
-                            <div class="omga-01__image-card-2 card-red">
-                                <div class="card-icon">
-                                    <i class="fas fa-bell"></i>
-                                </div>
-                                <div class="card-text">
-                                    <span class="date">Deadline: Oct 29, 2020</span>
-                                    <p>You’ve got a new project from David!</p>
-                                </div>
-                            </div>
-                        </div>
+                       
                     </div>
                 </div>
                 <div class="col-lg-7" data-aos="fade-left" data-aos-duration="500" data-aos-once="true">
@@ -221,7 +198,7 @@
                     <div class="testimonial-card--1">
                         <div class="card-top-area">
                             <div class="customer-img">
-                                <img src="./image/jpeg/l1-customer1.jpg" alt="">
+                                <img src="/img/home-1/team-2.png" style="border-radius: 50%"  alt="">
                             </div>
                             <div class="customer-identity">
                                 <h3 class="name">Adam Mathew</h3>
@@ -238,7 +215,7 @@
                     <div class="testimonial-card--1">
                         <div class="card-top-area">
                             <div class="customer-img">
-                                <img src="./image/jpeg/l1-customer2.jpg" alt="">
+                                <img src="/img/home-1/team-4.png" style="border-radius: 50%" alt="">
                             </div>
                             <div class="customer-identity">
                                 <h3 class="name">Andrey Rob</h3>
@@ -256,10 +233,10 @@
                     <div class="testimonial-card--1">
                         <div class="card-top-area">
                             <div class="customer-img">
-                                <img src="./image/jpeg/l1-customer3.jpg" alt="">
+                                <img src="/img/testimonial-3.png" alt="">
                             </div>
                             <div class="customer-identity">
-                                <h3 class="name">Amandine Flachs </h3>
+                                <h3 class="name">Amandine Flachs</h3>
                                 <p class="company">CEO/Co-founder</p>
                             </div>
                             <a href="#" class="review-media">
@@ -272,8 +249,6 @@
                 </div>
                 <div class="col-12 text-center mt--20" data-aos="fade-up" data-aos-duration="800" data-aos-once="true"
                     data-aos-delay="500">
-                    <a href="" class="testimonial-link"><i class="fas fa-comment-alt"></i><span>See all
-                            testimonials</span></a>
                 </div>
             </div>
         </div>
@@ -307,4 +282,19 @@
             </div>
         </div>
     </div> <!-- Cta Section End -->
-@endsection
+<style>
+    .omga-01__content-img-group img {
+        max-width: 600px;
+        width: 600px;
+        padding-right: 100px;
+    }
+
+    @media (max-width: 900px) { 
+        .omga-01__content-img-group img {
+            width: 100%;
+            padding-right: 0;
+        }
+    }
+</style>
+    @endsection
+

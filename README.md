@@ -1,4 +1,4 @@
-# 247workout.co
+# rubiktalk.com
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/bingsport/bingnote/247workout.co.git
+git remote add origin https://gitlab.com/bingsport/bingnote/rubiktalk.com.git
 git branch -M master
 git push -uf origin master
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/bingsport/bingnote/247workout.co/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/bingsport/bingnote/rubiktalk.com/-/settings/integrations)
 
 ## Collaborate with your team
 

@@ -16,7 +16,7 @@ class Controller extends BaseController
     public function getSeoData($data = []) {
         $seo = [
             'title' => ucwords(config('app.SITE_NAME')),
-            'description' => 'The best way to track your workouts | 247workout.co',
+            'description' => 'Rubiktalk.com - Convenient and easy to use meeting app',
             'keywords' => '',
             'image' => 'https://' . config('app.SITE_NAME') . '/favicon.png',
             'image_width' => 600,
@@ -31,10 +31,10 @@ class Controller extends BaseController
 
         switch ($GLOBALS['routeName']) {
             case 'getIndex':
-                $seo['title'] = 'The best way to track your workouts | 247workout.co';
+                $seo['title'] = 'Rubiktalk.com - Convenient and easy to use meeting app';
                 break;
             default:
-                $seo['title'] = ' The best way to track your workout';
+                $seo['title'] = 'Convenient and easy to use meeting app';
                 break;
         }
 
